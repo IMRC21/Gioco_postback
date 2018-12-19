@@ -1,0 +1,11 @@
+#output{
+    height: 600px;
+    width: 600px;
+    border: solid 5px black;
+}
+
+.mini{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
