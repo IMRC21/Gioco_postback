@@ -1,11 +1,23 @@
 #output{
-    height: 600px;
-    width: 600px;
-    border: solid 5px black;
+    height: 620px;
+    width: 620px;
+
 }
 
 .mini{
     height: 100px;
-    width: 100px;
-    background-color: red;
+    width: 99px;
+    margin-right:  1px; 
+    display: inline-block;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.mini:hover{
+    border: 5px red solid;
+}
+
+#indietro{
+    background-color: yellow;
+    padding: 2%;
 }
